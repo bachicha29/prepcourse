@@ -1,2 +1,1 @@
-# prepcourse
-repositorio prueba modulo 2 prepcourse henry
+como crear un repositorio y clonarlo desde github a mi pc
